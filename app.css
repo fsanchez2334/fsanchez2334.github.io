@@ -1,0 +1,49 @@
+.gray {
+    background-color: white;
+}
+
+.show-grid {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.show-grid [class^=col-] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #ddd;
+    border: 1px solid rgba(86,61,124,.2);
+}
+
+.jumbotron{
+text-align:center;
+}
+
+
+#Cristo{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+body{
+    background-color:#990000;
+}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
